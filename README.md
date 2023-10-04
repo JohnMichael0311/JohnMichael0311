@@ -1,6 +1,6 @@
 -  Hi, I’m @JohnMichael0311
 -  I’m interested in Managment and Coding culture.
--  I’m currently in IIIT Sricity. 2023-current
+-  I’m currently in IIIT Sricity. 2022-current
 -  You can Reach me on Linkedin-https://www.linkedin.com/in/john-michael-16700a280
 
 <!---
