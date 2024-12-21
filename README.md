@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnmichael0311&label=Profile%20views&color=0e75b6&style=flat" alt="johnmichael0311" /> </p>
 
-- 🌟 I’m currently involved in mastering **AI/ML, exploring Machine learning, algorithms, and data science.**
+- 🌟 I’m currently involved in mastering **AI/ML, exploring Machine learning, algorithms and DSA.**
 
 - 🔍 You could find my projects here [https://github.com/JohnMichael0311](https://github.com/JohnMichael0311)
 
