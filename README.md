@@ -1,15 +1,12 @@
 <h1 align="center">Hello everyone, I'm John Michael</h1>
-<h3 align="center">I'm John Michael, an undergrad at IIIT Sricity pursing my Btech in CSE. I'm currently learning Artificial Intelligence and Machine Learning as a passionate student. 🚀</h3>
+<h3 align="center">I'm John Michael, an undergrad at IIIT Sricity pursing my Btech in CSE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnmichael0311&label=Profile%20views&color=0e75b6&style=flat" alt="johnmichael0311" /> </p>
 
-- 🌟 I’m currently involved in mastering **AI/ML, exploring Machine learning, algorithms and DSA.**
 
 - 🔍 You could find my projects here [https://github.com/JohnMichael0311](https://github.com/JohnMichael0311)
 
 - 📝 Check out my linkedIn profile [www.linkedin.com/in/john-michael-16700a280](www.linkedin.com/in/john-michael-16700a280)
-
-- 🔍 If you're curious about **Python, AI/ML, and Data Structures, feel free to strike up a conversation with me!**
 
 - 📩 Reach me out via **johnmichael.d22@iiits.in**
 
